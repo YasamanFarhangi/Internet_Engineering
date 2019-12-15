@@ -3,8 +3,8 @@ title: Iran University of Science and Technology
 course_name: Internet Engineering
 course_description: Internet Engineering. The aim of this course is to cover the basic techniques in the development of Internet/web programs and introduce issues in design of an Internet-scale application architecture.
 course_semester: "Fall 2019"
-description: 
-Instructor: Dr.Vesal Hakami
+description: |
+    Instructor: Dr.Vesal Hakami
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/Internet_Engineering" # the subpath of your site, e.g. /blog/
