@@ -4,7 +4,7 @@ course_name: Internet Engineering
 course_description: Course description.
 course_semester: "Fall 2019"
 description: |
-    Instructor: Vesal Hakami
+    Instructor: Dr. Vesal Hakami
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/Internet_Engineering" # the subpath of your site, e.g. /blog/
