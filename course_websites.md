@@ -6,4 +6,4 @@ permalink: /course_websites/
 
 | # |       Course Name                      |   Instructor    | Student Name    | Website URL          |
 |---|:--------------------------------------:|:---------------:|:----------------|---------------------:|
-| 1 | College Orientation and Student Skills |     Eetemadi    |   Pariya Fesahat| https://sauleh.github.io/co98 |
+| 1 | Internet Engineering                   |     Hakami      | Yasaman Farhangi| https://YasamanFarhangi.github.io/Internet_Engineering |
