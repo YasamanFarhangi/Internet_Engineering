@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
- Basically, the course is made of 3 main parts. In each part particular subjects will be taught.
+Basically, the course is made of 3 main parts. In each part particular subjects will be taught.
 # Part I:
 - Protocols and APIs for Network Programming:
 
@@ -20,21 +20,23 @@ permalink: /syllabus/
     1. XMLHttpRequest (XHR) 
     2. Server Sent Events (SSE) 
     3. WebSocket 
-    
+
 #   Multimedia streaming (protocols and APIs) 
     1. SIP & Skype 
     2. WebRTC
 
+
 # Part II
-- Data Center Networking:
+Data Center Networking:
 
 # Topologies 
 # Congestion control 
 # Load balancing 
 # Storage
 
+
 # Part III
-- Software-Defined Networking: A Primer:
+Software-Defined Networking: A Primer:
 
 # SDN
 # OpenFlow
