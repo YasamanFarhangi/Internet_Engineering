@@ -8,8 +8,8 @@ Basically, the course is made of 3 main parts. In each part particular subjects 
 - Protocols and APIs for Network Programming:
 
 #   Transport layer 
-    1. Brief review of UDP & TCP 
-    2. Socket programming
+-    1. Brief review of UDP & TCP 
+-    2. Socket programming
 
 #    HTTP protocol variants 
 -    1. HTTP /1.X 
