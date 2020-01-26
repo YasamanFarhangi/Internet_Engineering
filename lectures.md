@@ -6,7 +6,7 @@ permalink: /lectures/
 
 # Every lectures will be upload here:
 
-(https://drive.iust.ac.ir/index.php/s/YEV4rWxRcKytN4N)
+* [ Lecture URLs ](https://drive.iust.ac.ir/index.php/s/YEV4rWxRcKytN4N)
 
 
 <ul id="archive">
