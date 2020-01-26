@@ -3,12 +3,12 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-- Basically, the course is made of 3 main parts. In each part particular subjects will be taught.
+# Basically, the course is made of 3 main parts. In each part particular subjects will be taught.
 ## Part I:
 - Protocols and APIs for Network Programming 
--   • Transport layer 
--       • Brief review of UDP & TCP 
--       • (Berkeley) socket programming
+-    Transport layer 
+-       1) Brief review of UDP & TCP 
+-       2) (Berkeley) socket programming
 ---
 ## Refrense books:
 # part I:
