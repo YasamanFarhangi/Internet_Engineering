@@ -19,7 +19,7 @@ Basically, the course is made of 3 main parts. In each part particular subjects 
 #    Real-time data streaming methods 
 -    1. XMLHttpRequest (XHR) 
 -    2. Server Sent Events (SSE) 
--   3. WebSocket 
+-    3. WebSocket 
 
 #   Multimedia streaming (protocols and APIs) 
 -    1. SIP & Skype 
