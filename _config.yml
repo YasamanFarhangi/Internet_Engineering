@@ -1,7 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Internet Engineering
-course_description: Internet Engineering. The aim of this course is to cover the basic techniques in the development of Internet/web programs and introduce issues in design of an Internet-scale application architecture.
+course_overview: This course provides an overview of various types of network transport protocols (UDP, TCP, SCTP, RTP, TLS, DTLS, SRTP, etc.), application protocols (HTTP/1.1, HTTP/2), fundamentals of multimedia streaming and APIs for network programming and real-time communications (Berkeley sockets, XHR, SSE, WebSocket, WebRTC, and more). In the second part of the course, we investigate the challenges posed by data center networks (DCNs). In particular, we overview topics spanning DCN topologies:clos, fat-tree, PORTLAND, etc; Routing protocols:ECMP, Flowlets, Conga, etc; and Transport protocols such as:DCTCP, D2TCP, multi-path TCP (MPTCP), etc.
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr.Vesal Hakami
