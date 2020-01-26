@@ -8,18 +8,16 @@ permalink: /syllabus/
 - Protocols and APIs for Network Programming 
 -    Transport layer 
 -       1) Brief review of UDP & TCP 
--       2) (Berkeley) socket programming
+-       2) Socket programming (Berkeley)
 ---
 ## Refrense books:
- # part I:
+# part I:
  - "TCP/IP sockets in C: practical guide for programmers" by Michael J Donahoo, Kenneth L Calvert, 2009, Morgan Kaufmann.
  - "High Performance Browser Networking" by Ilya Grigorik. Publisher: O'Reilly Media, Inc. Release Date: September 2013.    ISBN: 9781449344757 
  - "Computer Networking: A Top-Down Approach" (6th Ed.) by James F. Kurose, Keith W. Ross 
-
- # part II:
+# part II:
  - Key Papers, Surveys and Tutorials on Data Center Networking
-
- # part III:
+# part III:
  - Key Papers, Surveys and Tutorials on Software-Defined Networking
 
 ---
