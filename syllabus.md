@@ -4,9 +4,9 @@ title: Syllabus
 permalink: /syllabus/
 ---
  Basically, the course is made of 3 main parts. In each part particular subjects will be taught.
-## Part I:
-- Protocols and APIs for Network Programming 
--   Transport layer 
+# Part I:
+- Protocols and APIs for Network Programming: 
+#   Transport layer 
 -       1) Brief review of UDP & TCP 
 -       2) Socket programming 
 
