@@ -3,59 +3,30 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
-
-## Name: Internet Engineering
-## Degree: Bachelor’s degree
-## Co-requisite lesson: Data base
-## Prerequisite lesson: Computer networks
-## Prerequisite contents: Object-oriented programming & Foundations of computer networks
+- Basically, the course is made of 3 main parts. In each part particular subjects will be taught.
+## Part I:
+- Protocols and APIs for Network Programming 
+   • Transport layer 
+       • Brief review of UDP & TCP 
+       • (Berkeley) socket programming
 ---
 ## Refrense books:
- - 1) M.Fowler, Patterns of Enterprise Application Architecture. Addison-Wesley, 2003.
- - 2) M.Hall and L.Brown, Core Servlets and JavaServer Pages. 2nd ed., Prentice-Hall, 2003.
- - 3) M.Harwood, M.Goncalves, and M. Pemble, Security Strategies in Web Applications and Social Networking. Jones &    Bartlett Learning, 2010.
- (in case of choosing another language exept java,the second refrense book will be replaced by a proper book about       web-based software development). 
+# part I:
+ - "TCP/IP sockets in C: practical guide for programmers" by Michael J Donahoo, Kenneth L Calvert, 2009, Morgan Kaufmann.
+ - "High Performance Browser Networking" by Ilya Grigorik. Publisher: O'Reilly Media, Inc. Release Date: September 2013. ISBN: 9781449344757 
+ - "Computer Networking: A Top-Down Approach" (6th Ed.) by James F. Kurose, Keith W. Ross 
 
----
-## Goals:
- - The purpose of this lesson is covering the basic techniques in web-based software development.Key points of designing the architecture of a system will be examined as well.Making web services,web concepts & sematic web,social networks & 
- cloud computing in web are other topics in this lesson.Meeting the quality requirements of web software including   efficiency, scalability, versatility, security and usability are other highlights of this lesson.
+# part II:
+ - Key Papers, Surveys and Tutorials on Data Center Networking
 
----
-## Outcomes:
- - 1) Web-based software development
- - 2) Respond to architectural challenges in creating web-based applications
- - 3) Using the web as a framework for application development
- - 4) Applying technology frameworks to meet the quality requirements of web applications
-
----
-## List of topics:
-- Web introduction, HTTP protocol, Designing web pages
-- Creating simple web applications(Based on Servlet,PHP or NET)
-- Three layer architecture frameworks
-- Connection to database - Mapping objects to equations
-- Organizing domain logic
-- Meeting management
-- Congruence Control in Web Systems
-- Distributed Web Systems
-- Clustering and Cloud Computing
-- Security of web applications
-- Creating Reliable Web Systems
-- Performance of web-based systems
-- Web services
-- Web 2, sematic web, social networks
-- Web user interface design
-- Mobile programming on the web
-
----
-## Essential softwares: Suitable web programming languages ​​and frameworks(according to professor's choice)
-## Recommended assignments: 8 practical assignments
-## Recommended projects: A projects based on what you've learned
+# part III:
+ - Key Papers, Surveys and Tutorials on Software-Defined Networking
 
 ---
 
-## Assessment
- - homeworks : 20%
- - projects : 20%
- - exams : 60%
-
+## Grading Scheme:
+ - Assignments : 10%
+ - Mid-Term Exam : 30%
+ - Final Exam : 30%
+ - Project : 20%
+ - Quizes : 10%
