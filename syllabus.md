@@ -7,21 +7,21 @@ Basically, the course is made of 3 main parts. In each part particular subjects 
 # Part I:
 - Protocols and APIs for Network Programming:
 
-##   Transport layer 
+Transport layer 
 -    Brief review of UDP & TCP 
 -    Socket programming
 
-##   HTTP protocol variants 
+HTTP protocol variants 
 -    HTTP /1.X 
 -    HTTP /2.0 
 -    HTTPS, SSL 
 
-##   Real-time data streaming methods 
+Real-time data streaming methods 
 -    XMLHttpRequest (XHR) 
 -    Server Sent Events (SSE) 
 -    WebSocket 
 
-##   Multimedia streaming (protocols and APIs) 
+Multimedia streaming (protocols and APIs) 
 -    SIP & Skype 
 -    WebRTC
 
@@ -29,17 +29,17 @@ Basically, the course is made of 3 main parts. In each part particular subjects 
 # Part II
 Data Center Networking:
 
-## Topologies 
-## Congestion control 
-## Load balancing 
-## Storage
+Topologies 
+Congestion control 
+Load balancing 
+Storage
 
 
 # Part III
 Software-Defined Networking: A Primer:
 
-## SDN
-## OpenFlow
+SDN
+OpenFlow
 
 ---
 
