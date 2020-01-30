@@ -8,6 +8,14 @@ permalink: /lectures/
 
 * [ Lecture URLs ](https://drive.iust.ac.ir/index.php/s/YEV4rWxRcKytN4N)
 
+* [ Lecture00:CourseOverview ](https://drive.iust.ac.ir/index.php/s/YEV4rWxRcKytN4N/download?path=%2F&files=Lecture%2000-%20Course%20Overview.pdf)
+
+---
+
+* [ Lecture01:TransportLayer(REV) ](https://drive.iust.ac.ir/index.php/s/YEV4rWxRcKytN4N/download?path=%2F&files=Lecture%2001-%20Transport%20Layer%20(REV).pdf)
+
+---
+
 
 <ul id="archive">
 {% for lecture in site.lectures reversed %}
@@ -26,11 +34,11 @@ permalink: /lectures/
               {{ lecture.slides }} 
             {% else %}
               {{ lecture.slides | prepend: site.baseurl }} 
-            {% endif %}">{{ CourseOverview }}</a>
+            {% endif %}">{{ lecture.title }}</a>
         </span><br>
 
         {% if lecture.tldr %}
-            <strong>tl;dr:https://drive.iust.ac.ir/index.php/s/YEV4rWxRcKytN4N/download?path=%2F&files=Lecture%2000-%20Course%20Overview.pdf</strong> 
+            <strong>tl;dr:</strong> 
             {{ lecture.tldr }}
             <br/>
         {% endif %}
