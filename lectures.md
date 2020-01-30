@@ -26,11 +26,11 @@ permalink: /lectures/
               {{ lecture.slides }} 
             {% else %}
               {{ lecture.slides | prepend: site.baseurl }} 
-            {% endif %}">{{ lecture.title }}</a>
+            {% endif %}">{{ CourseOverview }}</a>
         </span><br>
 
         {% if lecture.tldr %}
-            <strong>tl;dr:</strong> 
+            <strong>tl;dr:https://drive.iust.ac.ir/index.php/s/YEV4rWxRcKytN4N/download?path=%2F&files=Lecture%2000-%20Course%20Overview.pdf</strong> 
             {{ lecture.tldr }}
             <br/>
         {% endif %}
